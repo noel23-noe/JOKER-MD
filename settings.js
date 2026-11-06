@@ -4,7 +4,7 @@ const settings = {
   author: '‎',
   botName: "🤡🃏𝐈 𝐀𝐌 LENIMO 🃏🤡",
   botOwner: 'NOEL',
-  ownerNumber: '254 703 344221',
+  ownerNumber: '254 794463885',
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
